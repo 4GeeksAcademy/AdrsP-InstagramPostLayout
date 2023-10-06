@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    margin:0px;
+}
+.post{
+    background-color: white;
+    margin:auto;
+    margin-top:80px;
+    width: 400px;
+}
+
+.post-header{
+    display:flex;
+}
+
+.html5{
+    margin-top:auto;
+    margin-bottom:auto;
+    position:relative;
+    left:10px;
+}
+
+.text{
+    position:relative;
+    left:25px;
+}
+
+.dots{
+    margin-top:auto;
+    margin-bottom:auto;
+    position:relative;
+    left:300px;
+}
+.post-icons {
+    display:flex;
+    gap:10px;
+    margin-top:5px;
+    height:24px;
+    margin-left:10px;
+}
+
+.bookmark{
+    position:relative;
+    left:250px;
+}
+
+p{
+    margin-left:5px;
+}
